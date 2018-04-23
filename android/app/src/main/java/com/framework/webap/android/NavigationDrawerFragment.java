@@ -1,5 +1,4 @@
-package com.google.chrome.android.webrtcsample;
-
+package com.framework.webap.android;
 
 import android.app.Activity;
 import android.app.ActionBar;

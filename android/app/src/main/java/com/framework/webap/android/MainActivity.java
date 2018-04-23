@@ -1,4 +1,4 @@
-package com.google.chrome.android.webrtcsample;
+package com.framework.webap.android;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
